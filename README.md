@@ -1,3 +1,7 @@
+# Update
+1. Added auto build & release for GitHub action
+2. The version of the application named "debug" is due to the lack of signature and a debug certificate is used. Before using, do not forget to create a token and add it to the repository named "GH_PACKAGES_TOKEN".
+
 <p align="center">
   <picture>
     <source
